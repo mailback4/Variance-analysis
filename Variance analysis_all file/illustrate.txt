@@ -1,0 +1,6 @@
+此项目是使用GSE26459数据集筛选其中的糖酵解差异基因。其中包括PCA图，火山图和热图的绘制；差异基因的筛选等内容。
+
+
+
+In this project, a GSE26459 dataset was used to screen glycolytic differential genes. 
+These include the drawing of PCA diagrams, volcano diagrams, and heat maps; Screening of differential genes, etc.
